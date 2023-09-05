@@ -1,5 +1,1 @@
-{{#user}} 
-Name: Ishaan Garg 
-Skills: HTML, CSS, JS, Next.js 
-Email: ishaangarg080@gmail.com 
-{{/user}}
+
